@@ -17,7 +17,7 @@ This repo focuses on **signal over noise**:
 - which resources are actually worth your time
 - how to prepare in a structured way
 
-⭐ **If this repo helps you, please star it — it helps more people discover it.**
+⭐ **If this repo helps you, please star it: it helps more people discover it.**
 
 ---
 
