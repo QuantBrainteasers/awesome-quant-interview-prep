@@ -1,5 +1,10 @@
 # 📈 Awesome Quant Interview Prep
 
+![GitHub stars](https://img.shields.io/github/stars/QuantBrainteasers/awesome-quant-interview-prep?style=social)
+![GitHub forks](https://img.shields.io/github/forks/QuantBrainteasers/awesome-quant-interview-prep?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/QuantBrainteasers/awesome-quant-interview-prep)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 Welcome! 👋  
 This repository is a **curated guide to preparing for quantitative finance interviews** across **Quant Trader, Quant Researcher, and Quant Analyst** roles.
 
