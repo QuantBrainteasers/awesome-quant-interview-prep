@@ -491,6 +491,14 @@ Many candidates follow a scattered approach (random problems, mixed topics, no s
 
 A more effective approach is to build skills progressively, in a way that matches how interviews actually work.
 
+1. Learn probability fundamentals
+2. Start solving problems daily
+3. Add mental math practice
+4. Add coding (if needed)
+5. Practice under time pressure
+6. Review mistakes deeply
+7. Repeat
+
 ---
 
 ### Step-by-step structure
