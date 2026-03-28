@@ -36,6 +36,7 @@ This repo focuses on **signal over noise**:
 - [🗺️ Suggested Preparation Roadmap](#️-suggested-preparation-roadmap)
 - [📅 Study Plans](#-study-plans)
 - [📄 Resume, Projects & Strategy](#-resume-projects--strategy)
+- [🎯 What Interviews Actually Look Like](#-what-interviews-look-like)
 - [⚠️ Common Mistakes](#️-common-mistakes)
 - [❓ FAQ](#-faq)
 - [🧪 Practice Platforms](#-practice-platforms)
@@ -1006,7 +1007,7 @@ Both matter.
 
 ---
 
-## 🎯 What Interviews Actually Look Like (Real Process Breakdown)
+## 🎯 What Interviews Look Like
 
 Most candidates prepare without a clear understanding of what interviews actually look like.
 
