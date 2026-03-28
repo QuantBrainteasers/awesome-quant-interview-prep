@@ -48,25 +48,37 @@ This repo focuses on **signal over noise**:
 
 ### If you are a beginner
 - Learn basic **probability & expected value**
+  Focus on understanding how to model simple situations (not memorizing formulas).
 - Start solving **simple brainteasers**
+  Avoid jumping into very hard puzzles — build intuition first.
 - Practice **mental math daily (10–15 min)**
+  This compounds quickly and becomes a major advantage.
 - Use structured resources (see below)
 
 Do **not** start by trying to solve the hardest Jane Street-style problems immediately.
 
 ### If you target Quant Trading roles
 - Focus on:
-  - ⚡ Mental math speed
-  - 🎲 Probability intuition
+  - ⚡ Mental math speed (this is often a filter) 
+  - 🎲 Probability intuition (expected value, quick reasoning)
   - 🧠 Brainteasers / games
 - Practice under **time pressure**
 
 ### If you target Quant Research roles
 - Focus on:
-  - 📊 Statistics & probability
+  - 📊 Statistics & probability (deep understanding)
   - 🐍 Python / data analysis
   - 📈 Modeling & ML basics
 - Build small **projects**
+
+### 📈 If you target Quant Analyst / Strat roles
+
+- Focus on:
+  - 📊 Probability & statistics  
+  - 💻 Python / SQL  
+  - 📈 Basic finance intuition   
+
+---
 
 ### If you are short on time (2–4 weeks)
 - Do:
