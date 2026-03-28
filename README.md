@@ -827,16 +827,182 @@ A strong study plan should:
 
 ## 📄 Resume, Projects & Strategy
 
-- Keep your resume **1 page**
-- Focus on:
-  - projects with **numbers / results**
-  - competitions (Kaggle, math, coding, trading)
-  - strong coursework
-  - internships / research
-- Be ready to explain **every line** of your CV
-- A small project you understand deeply is better than a flashy one you cannot explain
+Your resume is not a formality.  
+👉 It is the filter that decides whether you even get an interview.
 
-Networking helps, but it does **not** replace preparation.
+Most candidates fail here without realizing it.
+
+---
+
+### 🧠 What firms are actually looking for
+
+Recruiters and hiring managers scan your resume in ~10–20 seconds.
+
+They are looking for signals of:
+- analytical ability  
+- problem-solving  
+- technical skills  
+- evidence of excellence  
+
+Not:
+- long descriptions  
+- generic responsibilities  
+- buzzwords  
+
+---
+
+### 📌 The 3 strongest signals (in order)
+
+#### 1. 🏆 Proof of excellence
+
+This is the most powerful signal.
+
+**Examples:**
+- math / programming competitions  
+- strong academic performance  
+- selective programs  
+- scholarships  
+
+👉 If you have this, make it immediately visible  
+
+---
+
+#### 2. 🧪 Projects with real substance
+
+Not:
+- “implemented X model”  
+- “analyzed dataset”  
+
+But:
+- clear problem  
+- clear method  
+- measurable outcome  
+
+**Example (weak ❌):**  
+Built a trading strategy using Python  
+
+**Example (strong ✅):**  
+Developed a mean-reversion strategy on equities using Python, achieving a Sharpe ratio of 1.4 over a 5-year backtest  
+
+---
+
+#### 3. 💻 Technical skills that are actually usable
+
+**Relevant signals:**
+- Python (NumPy, pandas, data analysis)  
+- C++ (for low-latency / dev roles)  
+- SQL  
+- machine learning (if applied, not theoretical)  
+
+👉 Depth > breadth  
+
+---
+
+### ⚠️ What most candidates do wrong
+
+- ❌ list responsibilities instead of outcomes  
+- ❌ include projects they don’t fully understand  
+- ❌ add too many weak or irrelevant items  
+- ❌ write vague bullet points with no numbers  
+- ❌ treat resume as a formality  
+
+---
+
+### 🧱 How to structure your resume
+
+Keep it 1 page maximum.
+
+**Recommended structure:**
+- Education  
+- Experience / Projects  
+- Skills  
+- (Optional) Awards / Competitions  
+
+---
+
+### ✍️ How to write strong bullet points
+
+Use this structure:
+
+👉 Action verb + method + result  
+
+**Example:**
+- Built a Monte Carlo simulation in Python to price options under stochastic volatility models  
+- Analyzed 1M+ data points to identify inefficiencies in FX markets, improving signal accuracy by 20%  
+
+---
+
+### 🧠 Golden rule
+
+👉 If you cannot explain a line in depth, remove it.
+
+In interviews:
+- they will pick random lines  
+- they will go deep  
+- they will test your understanding  
+
+---
+
+### 📊 Projects that actually help
+
+**Good project types:**
+- backtesting trading strategies  
+- probability simulations  
+- data-driven research projects  
+- Kaggle competitions  
+- building tools (even small ones)  
+
+Better:
+- 1 strong project you deeply understand  
+
+than
+- 5 shallow projects  
+
+---
+
+### 🧪 Interview strategy (very important)
+
+Getting the interview is step 1.
+
+Passing it requires:
+
+#### 1. 🗣️ Clear thinking
+- explain your reasoning step by step  
+- don’t jump to conclusions  
+- structure your thoughts  
+
+#### 2. ⚖️ Balance speed vs accuracy
+- trading roles → speed matters  
+- research roles → depth matters  
+
+#### 3. ❓ Asking good questions
+
+Shows:
+- curiosity  
+- understanding  
+- maturity  
+
+---
+
+### 🤝 Networking (realistic view)
+
+Networking helps, but:
+
+👉 it will not compensate for weak preparation  
+
+**Useful actions:**
+- reach out to people in target roles  
+- ask specific, thoughtful questions  
+- understand interview processes  
+
+---
+
+### ⚠️ Final advice
+
+- your resume gets you the interview  
+- your skills get you the offer  
+
+Both matter.
 
 ---
 
