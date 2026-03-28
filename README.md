@@ -485,17 +485,135 @@ Used consistently, this is more effective than jumping between many platforms.
 
 ## 🗺️ Suggested Preparation Roadmap
 
-### Step-by-step
+The order in which you prepare matters a lot.
 
-1. Learn probability fundamentals
-2. Start solving problems daily
-3. Add mental math practice
-4. Add coding (if needed)
-5. Practice under time pressure
-6. Review mistakes deeply
-7. Repeat
+Many candidates follow a scattered approach (random problems, mixed topics, no structure), which leads to slow progress and gaps that show up during interviews.
 
-The biggest mistake most candidates make is doing this in the wrong order.
+A more effective approach is to build skills progressively, in a way that matches how interviews actually work.
+
+---
+
+### Step-by-step structure
+
+#### Build probability fundamentals
+
+Start with expected value, conditional probability, and basic distributions.
+
+**Goal:**
+- understand how to model simple situations  
+- reason step-by-step  
+
+**At this stage:**
+- focus on clarity, not speed  
+
+---
+
+#### Solve structured problem sets
+
+Move to curated question sets (not random problems).
+
+**Goal:**
+- build intuition  
+- recognize patterns  
+- understand common problem types  
+
+**Key point:**
+- quality > quantity  
+
+---
+
+#### Introduce daily mental math
+
+Start early and stay consistent.
+
+**Goal:**
+- improve speed and accuracy  
+- get comfortable with calculations under pressure  
+
+**Practical tip:**
+- 10–15 minutes daily is enough if done consistently  
+
+---
+
+#### Add coding preparation (if relevant)
+
+Mainly for Quant Research / Dev roles.
+
+**Goal:**
+- master core patterns  
+- write clean, correct code  
+
+**Important:**
+- focus on understanding patterns, not solving hundreds of random problems  
+
+---
+
+#### Introduce time pressure
+
+This is where preparation becomes realistic.
+
+**Goal:**
+- simulate interview conditions  
+- identify weak points  
+
+**Key insight:**
+- problems that feel easy untimed often become difficult when timed  
+
+---
+
+#### Review mistakes deeply
+
+This is one of the highest ROI steps.
+
+**Goal:**
+- turn weaknesses into strengths  
+- make reasoning automatic  
+
+**Practical tip:**
+- re-solve problems until you can do them quickly and confidently  
+
+---
+
+#### Simulate interview conditions
+
+Final stage of preparation.
+
+**Goal:**
+- think clearly under pressure  
+- communicate your reasoning effectively  
+
+**Practice:**
+- explain your thinking out loud  
+- simulate real interview scenarios  
+
+---
+
+### ⚠️ Common wrong approach
+
+Many candidates do something like:
+- jump between topics  
+- solve random problems  
+- delay mental math  
+- avoid timed practice  
+- focus too much on reading instead of solving  
+
+This often leads to:
+- slow progress  
+- inconsistent performance  
+- difficulty under interview conditions  
+
+---
+
+### 🧠 Key takeaway
+
+Preparation should be:
+- structured  
+- role-specific  
+- practice-heavy  
+- progressively timed  
+
+The difference between average and strong candidates is often not knowledge,  
+but how they structure their preparation.
 
 ---
 
