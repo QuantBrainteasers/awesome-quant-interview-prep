@@ -125,6 +125,13 @@ Not all topics are equally important — and more importantly, they are tested v
 
 The goal is not just to “know” these topics, but to understand how they are used in practice.
 
+- 🎲 Probability (expected value, conditional probability)
+- 📊 Statistics (distributions, variance, estimation)
+- ⚡ Mental Math (speed & accuracy)
+- 💻 Programming (Python / C++ / LeetCode-style)
+- 🧠 Brainteasers & logic problems
+- 📈 Markets basics (for trading roles)
+
 ---
 
 ### 🎲 Probability (most important)
