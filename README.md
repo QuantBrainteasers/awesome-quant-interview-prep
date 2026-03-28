@@ -1006,6 +1006,204 @@ Both matter.
 
 ---
 
+## 🎯 What Interviews Actually Look Like (Real Process Breakdown)
+
+Most candidates prepare without a clear understanding of what interviews actually look like.
+
+This leads to:
+- practicing the wrong things  
+- being surprised during interviews  
+- underperforming despite good preparation  
+
+Below is a realistic breakdown of how quant interviews typically work.
+
+---
+
+### 🧩 The typical interview pipeline
+
+Most firms follow a structure like this:
+- Online Assessment (OA)  
+- Phone / First-round interviews  
+- Onsite / Final rounds  
+
+Not all firms use all stages, but the pattern is similar.
+
+---
+
+### 🧪 Stage 1 — Online Assessment (OA)
+
+This is often the first filter.
+
+#### What it looks like
+
+Depending on the role:
+- mental math tests  
+- probability / brainteasers  
+- coding challenges (often via LeetCode-style problems)  
+- logic or game-based assessments  
+
+#### What is being tested
+- speed  
+- accuracy  
+- basic problem-solving  
+- ability to stay calm under time pressure  
+
+#### Key insight
+
+👉 This is mostly a filter stage, not a deep evaluation  
+
+You don’t need to be exceptional —  
+you need to be fast, clean, and consistent  
+
+#### Common mistake
+- underestimating mental math  
+- not practicing under time pressure  
+
+---
+
+### 📞 Stage 2 — First-Round Interviews
+
+Usually 1–3 interviews.
+
+#### What it looks like
+- probability questions  
+- brainteasers  
+- mental math  
+- sometimes coding (for research/dev roles)  
+
+**Format:**
+- interactive  
+- conversational  
+- often time-constrained  
+
+#### What is being tested
+- reasoning process  
+- clarity of thought  
+- ability to structure problems  
+- communication  
+
+#### Example flow
+
+You might get:
+- a probability problem  
+- followed by variations  
+- then deeper follow-ups  
+
+👉 Interviewers care about how you think, not just the final answer  
+
+#### Key insight
+
+👉 Most candidates fail here not because they don’t know the answer,  
+but because they cannot structure their thinking clearly  
+
+---
+
+### 🏢 Stage 3 — Final / Onsite Interviews
+
+This is the most important stage.
+
+Typically:
+- 3–6 interviews  
+- multiple interviewers  
+- mix of topics  
+
+#### What it looks like
+- harder probability problems  
+- deeper discussions  
+- trading games (for trader roles)  
+- coding + system thinking (for dev roles)  
+- project deep-dives (for research roles)  
+
+#### What is being tested
+- consistency  
+- depth of understanding  
+- ability to handle pressure  
+- intellectual honesty  
+
+---
+
+#### Trading roles — specific component
+
+You may encounter:
+- market-making games  
+- expected value decisions  
+- fast-paced scenarios  
+
+They evaluate:
+- decision-making  
+- risk/reward intuition  
+- composure  
+
+---
+
+#### Research roles — specific component
+
+You may be asked:
+- to explain projects in depth  
+- to reason about data / models  
+- to write or discuss code  
+
+They evaluate:
+- rigor  
+- technical depth  
+- ability to think like a researcher  
+
+---
+
+### 🧠 The most important meta-skill
+
+Across all stages:
+
+👉 Thinking out loud clearly  
+
+**Strong candidates:**
+- explain assumptions  
+- structure their reasoning  
+- adapt when corrected  
+
+**Weak candidates:**
+- jump to answers  
+- stay silent while thinking  
+- get stuck without communicating  
+
+---
+
+### ⚠️ What interviews are NOT
+
+- not trivia tests  
+- not pure knowledge checks  
+- not about memorizing solutions  
+
+---
+
+### 🔑 What actually makes the difference
+
+Top candidates:
+- stay calm under pressure  
+- communicate clearly  
+- simplify problems  
+- show structured reasoning  
+
+---
+
+### 🧪 How to prepare effectively
+
+To match real interviews, you should:
+- practice under time constraints  
+- simulate interviews (very important)  
+- explain solutions out loud  
+- review mistakes deeply  
+
+---
+
+### 🎯 Final takeaway
+
+If you understand:
+- how interviews are structured  
+- what each stage is testing  
+
+👉 your preparation becomes much more efficient  
+
 ## ⚠️ Common Mistakes
 
 - ❌ only reading, no practice
