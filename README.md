@@ -627,51 +627,202 @@ but how they structure their preparation.
 
 ## 📅 Study Plans
 
-### 🔥 4-Week Crash Plan
+A good study plan is not about doing everything —  
+it’s about focusing on the highest ROI activities in the right order.
 
-**Week 1**
-- Probability basics
-- Start mental math (daily)
-
-**Week 2**
-- Green Book problems
-- Timed drills
-
-**Week 3**
-- Mixed practice (probability + puzzles + math)
-- Start mock interviews
-
-**Week 4**
-- Full simulations
-- Review weak areas
+Below are realistic plans depending on your timeline.
 
 ---
 
-### 📈 8-Week Plan
+### 🔥 4-Week Crash Plan (High Intensity)
 
-- Weeks 1–2: Foundations
-- Weeks 3–5: Problem solving
-- Weeks 6–7: Timed practice
-- Week 8: Mock interviews
+**This is for:**
+- upcoming interviews  
+- tight deadlines  
+- candidates who already have basic foundations  
 
----
-
-### ⚡ Quant Trader Focus
-
-- Mental math (daily)
-- Probability intuition
-- Games & fast thinking
-- Timed drills
+**Goal:**  
+👉 maximize interview readiness quickly  
 
 ---
 
-### 📊 Quant Research Focus
+#### Week 1 — Foundations + Structure
 
-- Statistics + probability
-- Python + data
-- ML basics
-- Projects
+**Focus:**
+- probability fundamentals (expected value, conditional probability)  
+- core problem types  
+- start daily mental math  
 
+**What to do:**
+- work through key sections of the Green Book  
+- solve 10–20 structured problems per day  
+- start mental math (10–15 min daily)  
+
+**Priority:**
+- understanding > speed  
+
+---
+
+#### Week 2 — Pattern Recognition
+
+**Focus:**
+- common interview problem types  
+- building intuition  
+
+**What to do:**
+- continue Green Book / structured resources  
+- start mixing sources (e.g. QuantBrainteasers, Brainstellar, Jerry Qin)  
+- begin light timed practice  
+
+**Mental math:**
+- aim for noticeable speed improvement  
+
+---
+
+#### Week 3 — Pressure + Integration
+
+**Focus:**
+- solving under time constraints  
+- combining skills  
+
+**What to do:**
+- timed sets (important)  
+- mixed problem sessions (probability + brainteasers + math)  
+- introduce mock-style practice  
+
+**If relevant:**
+- start coding practice on LeetCode  
+
+---
+
+#### Week 4 — Interview Simulation
+
+**Focus:**
+- performance under pressure  
+- communication  
+
+**What to do:**
+- full mock interviews  
+- simulate real conditions (timing, stress, explanation)  
+- review mistakes deeply  
+
+**Mental math:**
+- keep daily practice (non-negotiable)  
+
+---
+
+### 📈 8-Week Plan (Most Effective for Most People)
+
+This is the optimal balance for most candidates.
+
+**Goal:**  
+👉 build strong fundamentals + reach interview-level performance  
+
+---
+
+#### Weeks 1–2 — Foundations
+
+**Focus:**
+- probability basics  
+- expected value  
+- simple brainteasers  
+
+**What to do:**
+- structured learning (Green Book, guides)  
+- untimed problem solving  
+- start mental math daily  
+
+---
+
+#### Weeks 3–5 — Structured Practice
+
+**Focus:**
+- problem solving  
+- pattern recognition  
+- increasing difficulty  
+
+**What to do:**
+- solve curated problems daily  
+- mix multiple sources (e.g. QuantBrainteasers, Brainstellar)  
+- start light timed sessions  
+
+**If relevant:**
+- coding practice on LeetCode  
+
+---
+
+#### Weeks 6–7 — Pressure Phase
+
+**Focus:**
+- speed  
+- consistency  
+- handling uncertainty  
+
+**What to do:**
+- timed problem sets  
+- mock interviews  
+- identify weak areas  
+
+**Key insight:**
+- this is where most candidates struggle  
+
+---
+
+#### Week 8 — Refinement
+
+**Focus:**
+- polishing performance  
+- fixing weaknesses  
+
+**What to do:**
+- revisit weak topics  
+- redo difficult problems  
+- simulate full interview sessions  
+
+---
+
+### ⚡ Quant Trader Focus (Specialization Layer)
+
+If targeting trading roles, prioritize:
+- daily mental math (non-negotiable)  
+- expected value & probability intuition  
+- fast decision-making  
+- timed drills  
+
+**Key difference:**
+👉 speed and clarity matter as much as correctness  
+
+---
+
+### 📊 Quant Research Focus (Specialization Layer)
+
+If targeting research roles, prioritize:
+- probability + statistics depth  
+- Python + data analysis  
+- modeling and experimentation  
+- coding  
+
+**Key difference:**
+👉 depth and rigor matter more than raw speed  
+
+---
+
+### ⚠️ Common mistakes in study plans
+
+- trying to cover too many topics at once  
+- delaying mental math practice  
+- avoiding timed practice until too late  
+- focusing on reading instead of solving  
+- not reviewing mistakes  
+
+---
+
+### 🧠 Key takeaway
+
+A strong study plan should:
+- evolve from understanding → practice → speed → simulation  
+- be consistent rather than intense and irregular  
+- match your target role  
 ---
 
 ## 📄 Resume, Projects & Strategy
