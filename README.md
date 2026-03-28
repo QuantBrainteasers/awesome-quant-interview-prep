@@ -119,118 +119,360 @@ For example:
 
 ---
 
-## 📚 Core Topics to Study
+## 📚 What to study
 
-- 🎲 Probability (expected value, conditional probability)
-- 📊 Statistics (distributions, variance, estimation)
-- ⚡ Mental Math (speed & accuracy)
-- 💻 Programming (Python / C++ / LeetCode-style)
-- 🧠 Brainteasers & logic problems
-- 📈 Markets basics (for trading roles)
+Not all topics are equally important — and more importantly, they are tested very differently in quant interviews.
+
+The goal is not just to “know” these topics, but to understand how they are used in practice.
+
+---
+
+### 🎲 Probability (most important)
+
+This is the core of most quant interviews, especially for trading roles.
+
+#### What matters:
+- Expected value (EV)  
+- Conditional probability  
+- Basic distributions  
+- Symmetry and simplification  
+- Logical modeling of situations  
+
+#### How it shows up in interviews:
+- Games (dice, cards, coins)  
+- Decision-making under uncertainty  
+- “What would you do?” scenarios  
+- Estimation of outcomes  
+
+#### What is actually tested:
+👉 Your ability to model a problem clearly and reason step-by-step  
+—not memorization of formulas.
+
+#### How to train effectively:
+- Focus on understanding structure, not formulas  
+- Re-solve problems until the reasoning becomes intuitive  
+- Practice explaining your thought process out loud  
+
+---
+
+### ⚡ Mental Math (critical for trading roles)
+
+Mental math is often a filtering stage in trading interviews.  
+If you struggle here, you may not reach later rounds.
+
+#### What matters:
+- Speed + accuracy  
+- Comfort with fractions, decimals, percentages  
+- Quick expected value calculations  
+
+#### How it shows up:
+- Timed arithmetic tests (e.g. “80 questions in 8 minutes”)  
+- Fast calculations during probability problems  
+- Real-time decision-making tasks  
+
+#### What is actually tested:
+👉 Your ability to stay accurate under time pressure  
+
+#### How to train effectively:
+- Practice daily (10–15 minutes)  
+- Track speed and accuracy over time  
+- Focus on consistency, not just peak performance  
+
+---
+
+### 📊 Statistics (more important for research roles)
+
+Statistics becomes more important for Quant Research / Analyst roles.
+
+#### What matters:
+- Distributions and moments  
+- Estimation and inference  
+- Regression basics  
+- Variance and bias  
+
+#### How it shows up:
+- Interpreting data  
+- Explaining models  
+- Reasoning about uncertainty in datasets  
+
+#### What is actually tested:
+👉 Your ability to reason about data and uncertainty  
+—not just recall definitions.
+
+#### How to train effectively:
+- Focus on intuition behind concepts  
+- Work through applied examples  
+- Be able to explain ideas simply  
+
+---
+
+### 💻 Programming (role-dependent importance)
+
+Programming is critical for some roles, less relevant for others.
+
+#### What matters:
+- Data structures and algorithms (for coding rounds)  
+- Writing clean, correct code  
+- Problem-solving under constraints  
+
+#### How it shows up:
+- LeetCode-style questions  
+- Data manipulation tasks  
+- Simple modeling or simulation problems  
+
+#### What is actually tested:
+👉 Your ability to solve problems clearly and efficiently in code  
+
+#### How to train effectively:
+- Focus on core patterns (arrays, hash maps, graphs, etc.)  
+- Practice writing code without over-relying on libraries  
+- Prioritize understanding over volume  
+
+---
+
+### 🧠 Brainteasers & Logic
+
+These are used to test thinking process, not just answers.
+
+#### What matters:
+- Breaking down complex problems  
+- Making reasonable assumptions  
+- Structuring your reasoning  
+
+#### How it shows up:
+- Open-ended puzzles  
+- Estimation problems  
+- “Think out loud” questions  
+
+#### What is actually tested:
+👉 Your ability to reason clearly under uncertainty  
+
+#### How to train effectively:
+- Practice explaining your reasoning step-by-step  
+- Focus on structure, not clever tricks  
+- Learn to simplify problems  
+
+---
+
+### 📈 Markets & Finance Basics (for trading roles)
+
+Not always heavily tested, but useful context.
+
+#### What matters:
+- Basic market mechanics (bid/ask, market making)  
+- Risk vs reward thinking  
+- Expected value in trading contexts  
+
+#### How it shows up:
+- Simple market scenarios  
+- Decision-making questions  
+- Discussions about strategies  
+
+#### What is actually tested:
+👉 Your intuition and reasoning, not deep finance knowledge  
+
+#### How to train effectively:
+- Focus on intuition rather than theory  
+- Understand simple trading scenarios  
+- Connect probability to real-world decisions  
+
+---
+
+### 🧠 Key takeaway
+
+These topics are not tested independently.
+
+Strong candidates are able to:
+- combine them  
+- apply them under time pressure  
+- explain their reasoning clearly  
+
+**That is what interviews are really evaluating.**
 
 ---
 
 ## 📖 Best Resources
 
+Most candidates don’t lack resources — they lack a strategy for using them.
+
+The goal is not to use as many resources as possible,  
+but to use a small number of high-quality ones in the right way.
+
+---
+
 ### 📘 Books
 
-- **Xinfeng Zhou — Practical Guide to Quantitative Finance Interviews ("Green Book")**
-  - ⭐ MUST DO
-  - Best for: probability + brainteasers
+#### Xinfeng Zhou — *A Practical Guide to Quantitative Finance Interviews* (“Green Book”)
 
-- **Mark Joshi — Quant Job Interview Questions ("Red Book")**
-  - Broader coverage
-  - Good complementary practice
+⭐ One of the highest ROI resources  
+
+**Best for:** probability + brainteasers  
+
+**How to use it effectively:**
+- Do selected problems, not necessarily cover-to-cover  
+- Focus on understanding the reasoning deeply  
+- Re-do problems multiple times until they become intuitive  
+
+**Common mistake:**
+- ❌ Treating it as a textbook to read passively  
+- ❌ Rushing through problems without mastering them  
+
+---
+
+#### Mark Joshi — *Quant Job Interview Questions* (“Red Book”)
+
+Broader coverage across quant topics  
+Good complementary practice after the Green Book  
+
+**How to use it:**
+- Use as a second layer for additional exposure  
+- Don’t rely on it as your main resource  
 
 ---
 
 ### 🎲 Probability & Core Prep
 
-- **Jane Street – Probability & Markets Guide**  
-  👉 https://www.janestreet.com/probability-markets/  
-  - Official guide
-  - Covers core interview topics
+#### Jane Street — Probability & Markets Guide  
+👉 https://www.janestreet.com/probability-markets/
 
-- **Jerry Qin Website**  
-  👉 https://jerryqin.com/  
-  - Excellent curated probability questions
+One of the most relevant resources for interview-style thinking  
 
-- **Brainstellar**  
-  👉 https://brainstellar.com  
-  - Structured problem bank
+**Why it’s valuable:**
+- Reflects how top firms think about problems  
+- Focuses on reasoning rather than formulas  
 
-- **QuantBrainteasers**  
-  👉 https://quantbrainteasers.com  
-  - Structured quant interview practice (probability + stats/ML + brainteasers)
+**How to use it:**
+- Go through it early in your prep  
+- Make sure you understand why each solution works  
+
+---
+
+#### Jerry Qin  
+👉 https://jerryqin.com/
+
+High-quality probability-style questions  
+
+**How to use it:**
+- Great for deepening intuition  
+- Use after basic foundations are in place  
+
+---
+
+#### Brainstellar  
+👉 https://brainstellar.com
+
+Structured problem bank  
+
+**How to use it:**
+- Good for building volume and consistency  
+- Useful once you want more repetition  
+
+---
+
+#### QuantBrainteasers  
+👉 https://quantbrainteasers.com
+
+Structured practice across probability, brainteasers, and role-specific prep  
+
+**How to use it:**
+- Use for organized, role-specific practice  
+- Especially useful if you want a more guided workflow  
 
 ---
 
 ### ⚡ Mental Math
 
-- **Zetamac**  
-  👉 https://arithmetic.zetamac.com  
-  - Best for speed training
+#### Zetamac  
+👉 https://arithmetic.zetamac.com
 
-- **RFQJobs Math Practice**  
-  👉 https://rfqjobs.com/practice/math/  
-  - Closest to trading-style tests
+One of the simplest and most effective tools  
 
-- **TradingInterview**  
-  👉 https://www.tradinginterview.com  
-  - Timed and realistic drills
-
-- **TraderMaths**  
-  👉 https://www.tradermaths.com/math-tests  
-  - Good targeted practice
+**How to use it:**
+- Practice daily (10–15 minutes)  
+- Track your score over time  
+- Focus on consistency, not just peak performance  
 
 ---
 
-### 💻 Programming (for coding rounds)
+#### RFQJobs Math Practice  
+👉 https://rfqjobs.com/practice/math/
 
-- **LeetCode**  
-  👉 https://leetcode.com  
-  - Best general-purpose coding interview complement
-  - Especially useful for quant research / quant dev / coding-heavy roles
+Closer to real trading-style tests  
 
-Recommended focus:
-- arrays / strings
-- hash maps
-- binary search
-- graphs
-- heaps
-- dynamic programming basics
+**How to use it:**
+- Introduce once you’re comfortable with basics  
+- Use for timed practice  
+
+---
+
+#### TradingInterview / TraderMaths  
+👉 https://www.tradinginterview.com  
+👉 https://www.tradermaths.com/math-tests
+
+Good additional sources for realistic drills  
+
+---
+
+### 💻 Programming
+
+#### LeetCode  
+👉 https://leetcode.com
+
+Best general-purpose coding platform  
+
+**When it matters:**
+- Critical for Quant Research / Dev roles  
+- Less relevant for pure trading roles  
+
+**How to use it effectively:**
+- Focus on core patterns, not volume  
+- Prioritize:
+  - arrays / strings  
+  - hash maps  
+  - binary search  
+  - graphs  
+  - heaps  
+  - basic dynamic programming  
+
+**Common mistake:**
+- ❌ Doing random problems without pattern recognition  
+- ❌ Over-indexing on LeetCode for roles where it’s not central  
 
 ---
 
 ### 🧠 Brainteasers & Puzzles
 
-- **Jane Street Puzzle Archive**  
-  👉 https://www.janestreet.com/puzzles/  
-  - Very high-quality problems
-  - Often more creative than real interview questions
-  - Great for flexible thinking
+#### Jane Street Puzzle Archive  
+👉 https://www.janestreet.com/puzzles/
 
-- **Brainstellar**  
-  👉 https://brainstellar.com
+Very high-quality problems  
 
-- **Jerry Qin**  
-  👉 https://jerryqin.com/
+**Important note:**
+- Often harder and more creative than actual interview questions  
 
-- **QuantBrainteasers**  
-  👉 https://quantbrainteasers.com
+**How to use it:**
+- Use for flexible thinking, not as your main practice source  
 
 ---
 
-### 📄 Interview Guides
+#### Other sources
+- Jerry Qin  
+- Brainstellar  
+- QuantBrainteasers  
 
-- **Princeton Quant Interview Guide**  
-  👉 https://careerdevelopment.princeton.edu/guides/interviews/quantitative-interview-preparation  
-  - Good high-level overview
-  - Useful for understanding the overall structure of quant interviews
+---
 
-- **Jane Street Interview Guide**  
-  👉 https://www.janestreet.com/join-jane-street/interviewing/  
-  - Useful for understanding how at least one top firm frames preparation
+### 🧠 Key principle
+
+The goal is not to use everything.
+
+A strong setup is often:
+- 1–2 core probability resources  
+- 1 mental math tool (daily)  
+- 1 structured problem source  
+- coding practice if needed  
+
+Used consistently, this is more effective than jumping between many platforms.
 
 ---
 
