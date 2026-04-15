@@ -1244,7 +1244,7 @@ Usually some combination of:
 - **Brainstellar** → puzzle bank  
 - **Jerry Qin** → probability prep  
 - **LeetCode** → coding  
-- **Zetamac / RFQJobs / TradingInterview** → mental math  
+- **Zetamac** → mental math  
 
 ---
 
