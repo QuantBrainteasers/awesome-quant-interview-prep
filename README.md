@@ -153,8 +153,7 @@ This is the core of most quant interviews, especially for trading roles.
 - Estimation of outcomes  
 
 #### What is actually tested:
-👉 Your ability to model a problem clearly and reason step-by-step  
-—not memorization of formulas.
+👉 Your ability to model a problem clearly and reason step-by-step, not memorization of formulas.
 
 #### How to train effectively:
 - Focus on understanding structure, not formulas  
@@ -204,8 +203,7 @@ Statistics becomes more important for Quant Research / Analyst roles.
 - Reasoning about uncertainty in datasets  
 
 #### What is actually tested:
-👉 Your ability to reason about data and uncertainty  
-—not just recall definitions.
+👉 Your ability to reason about data and uncertainty, not just recall definitions.
 
 #### How to train effectively:
 - Focus on intuition behind concepts  
@@ -301,7 +299,7 @@ Strong candidates are able to:
 
 ## 📖 Best Resources
 
-Most candidates don’t lack resources — they lack a strategy for using them.
+Most candidates don’t lack resources: they lack a strategy for using them.
 
 The goal is not to use as many resources as possible,  
 but to use a small number of high-quality ones in the right way.
@@ -402,17 +400,6 @@ One of the simplest and most effective tools
 
 ---
 
-#### RFQJobs Math Practice  
-👉 https://rfqjobs.com/practice/math/
-
-Closer to real trading-style tests  
-
-**How to use it:**
-- Introduce once you’re comfortable with basics  
-- Use for timed practice  
-
----
-
 #### TradingInterview / TraderMaths  
 👉 https://www.tradinginterview.com  
 👉 https://www.tradermaths.com/math-tests
@@ -448,18 +435,25 @@ Best general-purpose coding platform
 
 ---
 
-### 🧠 Brainteasers & Puzzles
+### 🧠 Brainteasers & Puzzles  
 
-#### Jane Street Puzzle Archive  
-👉 https://www.janestreet.com/puzzles/
+#### Project Euler  
+👉 https://projecteuler.net/
 
-Very high-quality problems  
+A collection of challenging but structured problems combining math, logic, and programming  
+
+**Why it’s useful:**
+- Develops problem-solving intuition and structured thinking  
+- Many problems rely on clever insights rather than brute force  
+- Great training for breaking down unfamiliar problems  
 
 **Important note:**
-- Often harder and more creative than actual interview questions  
+- Not interview-style questions, but excellent for building core thinking skills  
+- Can become technical/programming-heavy if overused  
 
 **How to use it:**
-- Use for flexible thinking, not as your main practice source  
+- Use selectively to sharpen reasoning and creativity  
+- Don’t treat it as your main interview prep source  
 
 ---
 
@@ -628,7 +622,7 @@ but how they structure their preparation.
 
 ## 📅 Study Plans
 
-A good study plan is not about doing everything —  
+A good study plan is not about doing everything:  
 it’s about focusing on the highest ROI activities in the right order.
 
 Below are realistic plans depending on your timeline.
