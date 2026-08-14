@@ -386,6 +386,18 @@ Structured practice across probability, brainteasers, and role-specific prep
 
 ---
 
+#### Quant Sprint  
+👉 https://lambdia.com/play
+
+Timed first round drill where every question is a drawing rather than a paragraph  
+
+**How to use it:**
+- Use it for speed under a clock, not for learning a topic from scratch  
+- Covers options and the Greeks, two sided quoting, probability, and mental arithmetic  
+- Free, runs in a browser, no account needed  
+
+---
+
 ### ⚡ Mental Math
 
 #### Zetamac  
@@ -1239,6 +1251,7 @@ Usually some combination of:
 - **Jerry Qin** → probability prep  
 - **LeetCode** → coding  
 - **Zetamac** → mental math  
+- **Quant Sprint** → timed first round drill (options, quoting, probability)  
 
 ---
 
