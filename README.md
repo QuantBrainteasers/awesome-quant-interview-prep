@@ -408,6 +408,13 @@ Good additional sources for realistic drills
 
 ---
 
+#### QuantSprint  
+👉 https://quantsprint.com
+
+Timed browser drills for quant online assessments, including an Optiver-style 80 in 8 simulator with +1/−1 scoring and other firm-specific formats.
+
+---
+
 ### 💻 Programming
 
 #### LeetCode  
@@ -1239,6 +1246,7 @@ Usually some combination of:
 - **Jerry Qin** → probability prep  
 - **LeetCode** → coding  
 - **Zetamac** → mental math  
+- **QuantSprint** → timed mental math / Optiver-style 80 in 8  
 
 ---
 
